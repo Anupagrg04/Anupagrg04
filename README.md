@@ -15,7 +15,7 @@
 ## My Skills
 <ul>
   <li>Programming Languages: Python, Java</li>
-  <li>Web Development: HTML, CSS</li>
+  <li>Web Development: HTML, CSS, JavaScript</li>
   <li>IoT Development: Arduino</li>
   <li>Database Management: MySQL</li>
 </ul>
